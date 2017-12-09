@@ -12,4 +12,6 @@ This app shows how to login by-
 #### Problems Faced During Developing
 When Initializing Firebase, the version compatibility creates many issues. FirebaseUI must be compatible with the Firebase Core version.Even the AppCompat version should be compatible.
 <br />
+You can check your compatibility from  [FirebaseCompatibilityCheck]( https://github.com/firebase/FirebaseUI-Android#compatibility-with-firebase--google-play-services-libraries)
+<br />
 There is a myth to newbies that Firebase PhoneAuth can only be used in Android Studio 3.0+ . But that's not true. It can be used with any version above 2+ .
